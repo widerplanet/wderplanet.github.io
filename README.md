@@ -1,2 +1,2 @@
-# wderplanet.github.io
+# widerplanet.github.io
 WiderPlanet Github page
